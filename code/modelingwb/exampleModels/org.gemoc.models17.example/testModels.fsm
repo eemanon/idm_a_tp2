@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.gemoc.models17.fsm.model:System xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.gemoc.models17.fsm.model="http://www.gemoc.org/fsm">
+  <ownedFsms name="fsm0" initialState="//@ownedFsms.0/@ownedStates.0">
+    <ownedStates incoming="//@ownedFsms.0/@ownedTransitions.1" name="s1" outgoing="//@ownedFsms.0/@ownedTransitions.0"/>
+    <ownedStates incoming="//@ownedFsms.0/@ownedTransitions.0" name="s2" outgoing="//@ownedFsms.0/@ownedTransitions.1"/>
+    <ownedTransitions tgt="//@ownedFsms.0/@ownedStates.1" name="ts1" src="//@ownedFsms.0/@ownedStates.0" trigger="wel" action="M"/>
+    <ownedTransitions tgt="//@ownedFsms.0/@ownedStates.0" name="s2_to_s1" src="//@ownedFsms.0/@ownedStates.1" trigger="at" action="l"/>
+  </ownedFsms>
+</org.gemoc.models17.fsm.model:System>
