@@ -1,5 +1,10 @@
 # idm a tp2
-Authors: Idrissa Seydou-Issaka, Sebastian Simon
+## Authors
+Idrissa Seydou-Issaka
+Sebastian Simon
+
+## Remarks
+The underlying content of this work is NOT our intellectual property. All credit goes to the authors of https://github.com/gemoc/MODELS2017Tutorial .
 
 ## Content
 This is a derivative from the following tutorial: https://github.com/gemoc/MODELS2017Tutorial
